@@ -1,0 +1,58 @@
+body
+{
+    background-image:url("../imagens/fundoplantas.png");
+    
+}
+
+
+.envolocro
+{
+    background-color:#edb98a;
+    margin-top: 7%;
+    padding: 33px;
+    
+}
+
+.margembtn
+{
+    margin: 70px;
+    border: 2px solid #ffffff;
+    height: 45px;
+    padding: 2%;
+}
+
+.fotoprincipal
+{
+    margin-top: -25%;
+    margin-bottom: 7%;
+}
+
+p{
+    color: #1e4e3e;
+    font-style: oblique;
+    font-weight: 700;
+    text-align: justify;
+    font-family: cursive;
+}
+.texto-geral{
+    color: #1e4e3e;
+    font-weight: 500;
+    text-align: justify;
+    font-family: cursive;
+}
+
+a:link, a:visited, a:active{
+    color: #1e4e3e;
+    font-style: oblique;
+    font-weight: 500;
+    text-align: justify;
+    text-decoration: none;
+}
+
+h1{
+    color: #1e4e3e;
+    text-align: center;
+    font-style: oblique;
+    font-family: cursive;
+}
+
